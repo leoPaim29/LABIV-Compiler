@@ -1,0 +1,5 @@
+/Users/leopaim/Projects/Compilador/Compilador/obj/x86/Debug/Compilador.csproj.CoreCompileInputs.cache
+/Users/leopaim/Projects/Compilador/Compilador/bin/Debug/Compilador.exe
+/Users/leopaim/Projects/Compilador/Compilador/bin/Debug/Compilador.pdb
+/Users/leopaim/Projects/Compilador/Compilador/obj/x86/Debug/Compilador.exe
+/Users/leopaim/Projects/Compilador/Compilador/obj/x86/Debug/Compilador.pdb

@@ -1,0 +1,4 @@
+/Users/leopaim/Projects/Compilador/Compilador/bin/Release/Compilador.exe
+/Users/leopaim/Projects/Compilador/Compilador/obj/x86/Release/Compilador.csproj.CoreCompileInputs.cache
+/Users/leopaim/Projects/Compilador/Compilador/obj/x86/Release/Compilador.exe
+/Users/leopaim/Projects/Compilador/Compilador/obj/x86/Release/Compilador.csprojResolveAssemblyReference.cache
